@@ -1,5 +1,11 @@
 # Web Programming COMP1231
 
+<p align="center">
+<img src="src/gbc_logo.png" width="250">
+</p>
+
+## Course Structure
+
 | Week          | Topics                            | Link                    |
 | ------------- |:---------------------------------:|:-----------------------:|
 | 1             | JS intro, BASH Intro, GitHub, SSH | [Lab 1](./labs/week-01) |
